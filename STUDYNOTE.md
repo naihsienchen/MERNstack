@@ -1,4 +1,3 @@
-# June 7
 ## project starter
 start new app:npx create-react-app 'project name'
 start localhost: npm start
@@ -24,3 +23,9 @@ in react, we only use arrow functions in JS, we do not use function keyword.
 ## event handling in react
 - event handling in functional component: function keyword can be used.
 - in class component: only arrow functions can be used.
+
+## CSS styling in react
+- inline styling syntax
+  <h1 style={{color: 'red', backgroundColor: 'green'}}>This is Inline CSS.</h1>
+- see app.js for css styling
+- see second.js for component styling with a different css style sheet
